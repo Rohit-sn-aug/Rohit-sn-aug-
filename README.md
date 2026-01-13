@@ -23,10 +23,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-sn-aug-&theme=tokyonight" />
 ### 🏆 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-sn-aug-&layout=compact&theme=tokyonight" />
 ### 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rohit-sn-aug-&theme=radical&no-frame=true&row=1" />
 ### 📫 Connect With Me
 
 <p>
